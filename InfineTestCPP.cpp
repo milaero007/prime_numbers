@@ -13,12 +13,13 @@
 
 // -- STEP 1 --
 int countPrimeSimple(int first, int last) {
+  return 0;
 }
 // -- END OF STEP 1 --
 
 // -- STEP 2 --
 int countPrimeIn4Thread(int last) {
-
+  return 0;
 }
 //-- END OF STEP 3 --
 
@@ -28,7 +29,7 @@ std::set<int> getPrimeInSetSimple(int first, int last) {
 }
 
 std::set<int> getPrimeInSet4Thread(int last) {
-
+  return std::set<int>();
 }
 //-- END OF STEP 3 --
 

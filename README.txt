@@ -10,6 +10,8 @@ both smaller than 6.
 
 The purpose of this exercise is to calculte prime numbers in most efficient way.
 
+All code is contained in the same file : InfineTestCPP.cpp
+
 Step 1
 Write countPrimeSimple function which counts  all prime numbers in 
 first-last range.
